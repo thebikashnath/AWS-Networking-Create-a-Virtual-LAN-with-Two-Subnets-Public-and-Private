@@ -1,0 +1,9 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+
+# Ignore AWS CLI credentials
+.aws/
+
+# Ignore logs
+*.log
