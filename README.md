@@ -17,12 +17,21 @@ Watch the full, hands‑on tutorial to see this configuration in action:
 👉 [Create a Virtual LAN with Two Subnets (Public and Private)
 ](https://youtu.be/eLkhFR4RqDo?si=jqIhsVeDeVI_6f-7)
 
-🚀 Getting Started
+## 🚀 Getting Started
 To follow along, you only need:
 - An active AWS account
 - Basic knowledge of networking concepts (IP addressing, gateways, routing)
-Proceed to the detailed guide: ➡️ VLAN Setup Guide
 
+Proceed to the detailed guide: ➡️ `docs/vlan-setup-guide.md`
 
-📜 License
+---
+
+## 📂 Repository Contents
+- `diagrams/` → Architecture diagrams of Public and Private subnets  
+- `src/` → Infrastructure code samples (Terraform/CloudFormation/AWS CLI)  
+- `docs/` → Step-by-step documentation  
+
+---
+
+## 📜 License
 This project is licensed under the MIT License.
